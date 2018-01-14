@@ -1,0 +1,260 @@
+[
+  {
+    "Code": "CSCI102",
+    "Name": "Programming in C++",
+    "Classes": [
+      {
+        "Id": "1",
+        "Lecturer": "Dr.Azeem",
+        "Venue": "venue",
+        "Credits": 3,
+        "Sessions": [
+          {
+            "Day": "Monday",
+            "TimePeriod": "14:00-15:00"
+          },
+          {
+            "Day": "Wednesday",
+            "TimePeriod": "14:00-15:00"
+          },
+          {
+            "Day": "Friday",
+            "TimePeriod": "14:30-16:30"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Code": "CSCI117",
+    "Name": "Computer Programming - Java",
+    "Classes": [
+      {
+        "Id": "1",
+        "Lecturer": "Dr.Azeem",
+        "Venue": "venue",
+        "Credits": 3,
+        "Sessions": [
+          {
+            "Day": "Tuesday",
+            "TimePeriod": "11:00-12:00"
+          },
+          {
+            "Day": "Thursday",
+            "TimePeriod": "11:00-12:00"
+          },
+          {
+            "Day": "Thursday",
+            "TimePeriod": "14:00-16:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Code": "MATH271",
+    "Name": "Calculus 3",
+    "Classes": [
+      {
+        "Id": "1",
+        "Lecturer": "lecturer",
+        "Venue": "venue",
+        "Credits": 3,
+        "Sessions": [
+          {
+            "Day": "Monday",
+            "TimePeriod": "12:00-13:20"
+          },
+          {
+            "Day": "Tuesday",
+            "TimePeriod": "12:00-13:20"
+          },
+          {
+            "Day": "Wednesday",
+            "TimePeriod": "12:00-13:20"
+          },
+          {
+            "Day": "Friday",
+            "TimePeriod": "12:00-13:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Code": "MATH319",
+    "Name": "Linear Algebra",
+    "Classes": [
+      {
+        "Id": "1",
+        "Lecturer": "lecturer",
+        "Venue": "venue",
+        "Credits": 3,
+        "Sessions": [
+          {
+            "Day": "Monday",
+            "TimePeriod": "15:00-16:00"
+          },
+          {
+            "Day": "Wednesday",
+            "TimePeriod": "15:00-16:00"
+          },
+          {
+            "Day": "Friday",
+            "TimePeriod": "15:30-16:30"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Code": "PHYS211",
+    "Name": "Physics for Science & Engineering 1 (with lab)",
+    "Classes": [
+      {
+        "Id": "1",
+        "Lecturer": "lecturer",
+        "Venue": "venue",
+        "Credits": 3,
+        "Sessions": [
+          {
+            "Day": "Monday",
+            "TimePeriod": "14:00-15:00"
+          },
+          {
+            "Day": "Wednesday",
+            "TimePeriod": "14:00-15:00"
+          },
+          {
+            "Day": "Friday",
+            "TimePeriod": "14:30-15:30"
+          }
+        ]
+      },
+      {
+        "Id": "2",
+        "Lecturer": "lecturer",
+        "Venue": "venue",
+        "Credits": 3,
+        "Sessions": [
+          {
+            "Day": "Tuesday",
+            "TimePeriod": "08:00-09:30"
+          },
+          {
+            "Day": "Thursday",
+            "TimePeriod": "08:00-09:30"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Code": "PHYS211 (L)",
+    "Name": "Physics for Science & Engineering 1 (with lab)",
+    "Classes": [
+      {
+        "Id": "L1",
+        "Lecturer": "lecturer",
+        "Venue": "venue",
+        "Credits": 3,
+        "Sessions": [
+          {
+            "Day": "Tuesday",
+            "TimePeriod": "10:00-12:00"
+          }
+        ]
+      },
+      {
+        "Id": "L2",
+        "Lecturer": "lecturer",
+        "Venue": "venue",
+        "Credits": 3,
+        "Sessions": [
+          {
+            "Day": "Tuesday",
+            "TimePeriod": "14:00-16:00"
+          }
+        ]
+      },
+      {
+        "Id": "L3",
+        "Lecturer": "lecturer",
+        "Venue": "venue",
+        "Credits": 3,
+        "Sessions": [
+          {
+            "Day": "Tuesday",
+            "TimePeriod": "16:00-18:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Code": "MUSC103",
+    "Name": "Introduction to Music",
+    "Classes": [
+      {
+        "Id": "1",
+        "Lecturer": "lecturer",
+        "Venue": "venue",
+        "Credits": 3,
+        "Sessions": [
+          {
+            "Day": "Tuesday",
+            "TimePeriod": "08:00-09:30"
+          },
+          {
+            "Day": "Thursday",
+            "TimePeriod": "08:00-09:30"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Code": "FILM101",
+    "Name": "Introduction to Film Studies",
+    "Classes": [
+      {
+        "Id": "1",
+        "Lecturer": "lecturer",
+        "Venue": "venue",
+        "Credits": 3,
+        "Sessions": [
+          {
+            "Day": "Tuesday",
+            "TimePeriod": "09:30-11:00"
+          },
+          {
+            "Day": "Thursday",
+            "TimePeriod": "09:30-11:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Code": "FILM101",
+    "Name": "Introduction to Film Studies",
+    "Classes": [
+      {
+        "Id": "1",
+        "Lecturer": "lecturer",
+        "Venue": "venue",
+        "Credits": 3,
+        "Sessions": [
+          {
+            "Day": "Tuesday",
+            "TimePeriod": "09:30-11:00"
+          },
+          {
+            "Day": "Thursday",
+            "TimePeriod": "09:30-11:00"
+          }
+        ]
+      }
+    ]
+  }
+]
