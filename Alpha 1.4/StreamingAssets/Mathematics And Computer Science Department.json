@@ -1,0 +1,263 @@
+[
+  {
+    "Code": "CSCI102",
+    "Name": "Programming in C++",
+    "Credits": 3,
+    "Classes": [
+      {
+        "Id": "1",
+        "Lecturer": "Dr. Azeem",
+        "Venue": "BG.18",
+        "Type": "Lecture",
+        "Sessions": [
+          {
+            "Day": "Monday",
+            "TimePeriod": "14:00-15:00"
+          },
+          {
+            "Day": "Wednesday",
+            "TimePeriod": "14:00-15:00"
+          }
+        ]
+      },
+      {
+        "Id": "L1",
+        "Lecturer": "Dr. Azeem",
+        "Venue": "BG.18",
+        "Type": "Lab",
+        "Sessions": [
+          {
+            "Day": "Friday",
+            "TimePeriod": "14:30-16:30"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Code": "CSCI117",
+    "Name": "Computer Programming - Java",
+    "Credits": 3,
+    "Classes": [
+      {
+        "Id": "1",
+        "Lecturer": "Dr. Azeem",
+        "Venue": "BG.01",
+        "Type": "Lecture",
+        "Sessions": [
+          {
+            "Day": "Tuesday",
+            "TimePeriod": "11:00-12:00"
+          },
+          {
+            "Day": "Thursday",
+            "TimePeriod": "11:00-12:00"
+          },
+          {
+            "Day": "Thursday",
+            "TimePeriod": "14:00-16:00"
+          }
+        ]
+      },
+      {
+        "Id": "L1",
+        "Lecturer": "Dr. Azeem",
+        "Venue": "BG.01",
+        "Type": "Lab",
+        "Sessions": [
+          {
+            "Day": "Thursday",
+            "TimePeriod": "14:00-16:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Code": "CSCI221",
+    "Name": "Object-Oriented Programming (C++)",
+    "Credits": 3,
+    "Classes": [
+      {
+        "Id": "1",
+        "Lecturer": "Dr. Azeem",
+        "Venue": "BG.06",
+        "Type": "Lecture",
+        "Sessions": [
+          {
+            "Day": "Monday",
+            "TimePeriod": "12:00-13:00"
+          },
+          {
+            "Day": "Wednesday",
+            "TimePeriod": "12:00-13:00"
+          }
+        ]
+      },
+      {
+        "Id": "L1",
+        "Lecturer": "Dr. Azeem",
+        "Venue": "BG.06",
+        "Type": "Lab",
+        "Sessions": [
+          {
+            "Day": "Tuesday",
+            "TimePeriod": "14:00-16:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Code": "CSCI251",
+    "Name": "C Programming for Science & Engineering",
+    "Credits": 3,
+    "Classes": [
+      {
+        "Id": "1",
+        "Lecturer": "Dr. Azeem",
+        "Venue": "BG.06",
+        "Type": "Lecture",
+        "Sessions": [
+          {
+            "Day": "Wednesday",
+            "TimePeriod": "10:00-11:00"
+          },
+          {
+            "Day": "Friday",
+            "TimePeriod": "10:00-11:00"
+          }
+        ]
+      },
+      {
+        "Id": "L1",
+        "Lecturer": "Dr. Azeem",
+        "Venue": "BG.06",
+        "Type": "Lab",
+        "Sessions": [
+          {
+            "Day": "Monday",
+            "TimePeriod": "10:00-12:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Code": "MATH110",
+    "Name": "College Algebra",
+    "Credits": 3,
+    "Classes": [
+      {
+        "Id": "1",
+        "Lecturer": "Dr. Wong",
+        "Venue": "BG.12",
+        "Type": "Lecture",
+        "Sessions": [
+          {
+            "Day": "Monday",
+            "TimePeriod": "10:00-11:00"
+          },
+          {
+            "Day": "Wednesday",
+            "TimePeriod": "10:00-11:00"
+          },
+          {
+            "Day": "Friday",
+            "TimePeriod": "10:00-11:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Code": "MATH150",
+    "Name": "Pre-Calculus",
+    "Credits": 3,
+    "Classes": [
+      {
+        "Id": "1",
+        "Lecturer": "Dr. Wong",
+        "Venue": "BG.12",
+        "Type": "Lecture",
+        "Sessions": [
+          {
+            "Day": "Monday",
+            "TimePeriod": "09:00-10:00"
+          },
+          {
+            "Day": "Wednesday",
+            "TimePeriod": "09:00-10:00"
+          },
+          {
+            "Day": "Friday",
+            "TimePeriod": "09:00-10:00"
+          }
+        ]
+      },
+      {
+        "Id": "2",
+        "Lecturer": "Dr. Wong",
+        "Venue": "BG.01",
+        "Type": "Lecture",
+        "Sessions": [
+          {
+            "Day": "Tuesday",
+            "TimePeriod": "08:00-09:30"
+          },
+          {
+            "Day": "Thursday",
+            "TimePeriod": "08:00-09:30"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Code": "MATH161",
+    "Name": "Calculus for Business I",
+    "Credits": 3,
+    "Classes": [
+      {
+        "Id": "1",
+        "Lecturer": "Mr. Alvin",
+        "Venue": "BG.01",
+        "Type": "Lecture",
+        "Sessions": [
+          {
+            "Day": "Monday",
+            "TimePeriod": "09:00-10:00"
+          },
+          {
+            "Day": "Wednesday",
+            "TimePeriod": "09:00-10:00"
+          },
+          {
+            "Day": "Friday",
+            "TimePeriod": "09:00-10:00"
+          }
+        ]
+      },
+      {
+        "Id": "2",
+        "Lecturer": "Mr. Alvin",
+        "Venue": "BG.13",
+        "Type": "Lecture",
+        "Sessions": [
+          {
+            "Day": "Monday",
+            "TimePeriod": "12:00-13:00"
+          },
+          {
+            "Day": "Wednesday",
+            "TimePeriod": "12:00-13:00"
+          },
+          {
+            "Day": "Friday",
+            "TimePeriod": "12:00-13:00"
+          }
+        ]
+      }
+    ]
+  }
+]

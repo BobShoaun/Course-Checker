@@ -1,0 +1,108 @@
+[
+  {
+    "Code": "LOL101",
+    "Name": "sfdsadfsadf",
+    "Credits": 54,
+    "Classes": [
+      {
+        "Id": "1",
+        "Lecturer": "sadf",
+        "Venue": "asdf",
+        "Type": "Lecture",
+        "Sessions": [
+          {
+            "Day": "Monday",
+            "TimePeriod": "12:00-14:00"
+          },
+          {
+            "Day": "Thursday",
+            "TimePeriod": "12:00-14:00"
+          }
+        ]
+      },
+      {
+        "Id": "2",
+        "Lecturer": "dfsfd",
+        "Venue": "sadf",
+        "Type": "Lecture",
+        "Sessions": [
+          {
+            "Day": "Wednesday",
+            "TimePeriod": "13:00-15:00"
+          }
+        ]
+      },
+      {
+        "Id": "T1",
+        "Lecturer": "sdfsadf",
+        "Venue": "asdfsdf",
+        "Type": "Tutorial",
+        "Sessions": [
+          {
+            "Day": "Tuesday",
+            "TimePeriod": "15:00-16:00"
+          },
+          {
+            "Day": "Friday",
+            "TimePeriod": "15:00-16:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Code": "FUCK101",
+    "Name": "fucksdfjds",
+    "Credits": 3,
+    "Classes": [
+      {
+        "Id": "1",
+        "Lecturer": "faggot",
+        "Venue": "shithiole",
+        "Type": "Lecture",
+        "Sessions": [
+          {
+            "Day": "Monday",
+            "TimePeriod": "12:00-14:00"
+          },
+          {
+            "Day": "Saturday",
+            "TimePeriod": "12:00-14:00"
+          }
+        ]
+      },
+      {
+        "Id": "L1",
+        "Lecturer": "asdf",
+        "Venue": "wfef",
+        "Type": "Lab",
+        "Sessions": [
+          {
+            "Day": "Tuesday",
+            "TimePeriod": "15:20-17:00"
+          },
+          {
+            "Day": "Wednesday",
+            "TimePeriod": "15:20-17:00"
+          }
+        ]
+      },
+      {
+        "Id": "L2",
+        "Lecturer": "sdfsd",
+        "Venue": "sadfsadf",
+        "Type": "Lab",
+        "Sessions": [
+          {
+            "Day": "Friday",
+            "TimePeriod": "12:00-16:00"
+          },
+          {
+            "Day": "Thursday",
+            "TimePeriod": "12:00-16:00"
+          }
+        ]
+      }
+    ]
+  }
+]

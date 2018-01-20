@@ -1,0 +1,69 @@
+[
+  {
+    "Code": "MUSC103",
+    "Name": "Introduction to Music",
+    "Credits": 3,
+    "Classes": [
+      {
+        "Id": "1",
+        "Lecturer": "Ms. Alicia",
+        "Venue": "BG.10",
+        "Sessions": [
+          {
+            "Day": "Tuesday",
+            "TimePeriod": "08:00-09:30"
+          },
+          {
+            "Day": "Thursday",
+            "TimePeriod": "08:00-09:30"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Code": "SOCS101",
+    "Name": "Sociology I",
+    "Credits": 3,
+    "Classes": [
+      {
+        "Id": "1",
+        "Lecturer": "Mrs. Singh",
+        "Venue": "BG.14",
+        "Sessions": [
+          {
+            "Day": "Monday",
+            "TimePeriod": "12:00-13:00"
+          },
+          {
+            "Day": "Wednesday",
+            "TimePeriod": "12:00-13:00"
+          },
+          {
+            "Day": "Friday",
+            "TimePeriod": "12:00-13:00"
+          }
+        ]
+      },
+      {
+        "Id": "2",
+        "Lecturer": "Mrs. Singh",
+        "Venue": "BG.14",
+        "Sessions": [
+          {
+            "Day": "Monday",
+            "TimePeriod": "14:00-15:00"
+          },
+          {
+            "Day": "Wednesday",
+            "TimePeriod": "14:00-15:00"
+          },
+          {
+            "Day": "Friday",
+            "TimePeriod": "14:30-15:30"
+          }
+        ]
+      }
+    ]
+  }
+]

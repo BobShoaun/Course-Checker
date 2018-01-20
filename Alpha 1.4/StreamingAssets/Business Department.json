@@ -1,0 +1,303 @@
+[
+  {
+    "Code": "ACCT201",
+    "Name": "Accounting I",
+    "Credits": 3,
+    "Classes": [
+      {
+        "Id": "1",
+        "Lecturer": "Mr. Gunasegaran",
+        "Venue": "BG.01",
+        "Sessions": [
+          {
+            "Day": "Monday",
+            "TimePeriod": "12:00-13:00"
+          },
+          {
+            "Day": "Wednesday",
+            "TimePeriod": "12:00-13:00"
+          },
+          {
+            "Day": "Friday",
+            "TimePeriod": "12:00-13:00"
+          }
+        ]
+      },
+      {
+        "Id": "2",
+        "Lecturer": "Mr. Gunasegaran",
+        "Venue": "BG.11",
+        "Sessions": [
+          {
+            "Day": "Tuesday",
+            "TimePeriod": "14:00-15:30"
+          },
+          {
+            "Day": "Thursday",
+            "TimePeriod": "14:00-15:30"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Code": "ACCT202",
+    "Name": "Accounting II",
+    "Credits": 3,
+    "Classes": [
+      {
+        "Id": "1",
+        "Lecturer": "Mr. KC Cheong",
+        "Venue": "BG.03",
+        "Sessions": [
+          {
+            "Day": "Tuesday",
+            "TimePeriod": "14:00-15:30"
+          },
+          {
+            "Day": "Thursday",
+            "TimePeriod": "14:00-15:30"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Code": "ECON202",
+    "Name": "Microeconomics",
+    "Credits": 3,
+    "Classes": [
+      {
+        "Id": "1",
+        "Lecturer": "Ms. Lim You Ping",
+        "Venue": "BG.03",
+        "Sessions": [
+          {
+            "Day": "Monday",
+            "TimePeriod": "12:00-13:00"
+          },
+          {
+            "Day": "Wednesday",
+            "TimePeriod": "12:00-13:00"
+          },
+          {
+            "Day": "Friday",
+            "TimePeriod": "12:00-13:00"
+          }
+        ]
+      },
+      {
+        "Id": "2",
+        "Lecturer": "Ms. Lim You Ping",
+        "Venue": "BG.03",
+        "Sessions": [
+          {
+            "Day": "Monday",
+            "TimePeriod": "14:00-15:00"
+          },
+          {
+            "Day": "Wednesday",
+            "TimePeriod": "14:00-15:00"
+          },
+          {
+            "Day": "Friday",
+            "TimePeriod": "14:30-15:30"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Code": "ECON203",
+    "Name": "Macroeconomics",
+    "Credits": 3,
+    "Classes": [
+      {
+        "Id": "1",
+        "Lecturer": "Ms. Lim You Ping",
+        "Venue": "BG.08",
+        "Sessions": [
+          {
+            "Day": "Tuesday",
+            "TimePeriod": "14:00-15:30"
+          },
+          {
+            "Day": "Thursday",
+            "TimePeriod": "14:00-15:30"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Code": "FINS323",
+    "Name": "Introductory Financial Management",
+    "Credits": 3,
+    "Classes": [
+      {
+        "Id": "1",
+        "Lecturer": "Mr. KC Cheong",
+        "Venue": "BG.03",
+        "Sessions": [
+          {
+            "Day": "Monday",
+            "TimePeriod": "10:00-11:00"
+          },
+          {
+            "Day": "Wednesday",
+            "TimePeriod": "10:00-11:00"
+          },
+          {
+            "Day": "Friday",
+            "TimePeriod": "10:00-11:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Code": "GBUS101",
+    "Name": "Pre Business",
+    "Credits": 3,
+    "Classes": [
+      {
+        "Id": "1",
+        "Lecturer": "Mr. KC Cheong",
+        "Venue": "BG.13",
+        "Sessions": [
+          {
+            "Day": "Monday",
+            "TimePeriod": "14:00-15:00"
+          },
+          {
+            "Day": "Wednesday",
+            "TimePeriod": "14:00-15:00"
+          },
+          {
+            "Day": "Friday",
+            "TimePeriod": "14:30-15:30"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Code": "GBUS102",
+    "Name": "Introduction to Business",
+    "Credits": 3,
+    "Classes": [
+      {
+        "Id": "1",
+        "Lecturer": "Mr. Gunasegaran",
+        "Venue": "BG.01",
+        "Sessions": [
+          {
+            "Day": "Monday",
+            "TimePeriod": "11:00-12:00"
+          },
+          {
+            "Day": "Wednesday",
+            "TimePeriod": "11:00-12:00"
+          },
+          {
+            "Day": "Friday",
+            "TimePeriod": "11:00-12:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Code": "MGMT325",
+    "Name": "Principles of Management",
+    "Credits": 3,
+    "Classes": [
+      {
+        "Id": "1",
+        "Lecturer": "Mr. Gunasegaran",
+        "Venue": "BG.02",
+        "Sessions": [
+          {
+            "Day": "Monday",
+            "TimePeriod": "14:00-15:00"
+          },
+          {
+            "Day": "Wednesday",
+            "TimePeriod": "14:00-15:00"
+          },
+          {
+            "Day": "Friday",
+            "TimePeriod": "14:30-15:30"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Code": "MKTG311",
+    "Name": "Marketing Principles and Problems",
+    "Credits": 3,
+    "Classes": [
+      {
+        "Id": "1",
+        "Lecturer": "Ms. Lim You Ping",
+        "Venue": "BG.04",
+        "Sessions": [
+          {
+            "Day": "Monday",
+            "TimePeriod": "11:00-12:00"
+          },
+          {
+            "Day": "Wednesday",
+            "TimePeriod": "11:00-12:00"
+          },
+          {
+            "Day": "Friday",
+            "TimePeriod": "11:00-12:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Code": "STAT230",
+    "Name": "Statistics I",
+    "Credits": 3,
+    "Classes": [
+      {
+        "Id": "1",
+        "Lecturer": "Mr. KC Cheong",
+        "Venue": "BG.03",
+        "Sessions": [
+          {
+            "Day": "Monday",
+            "TimePeriod": "11:00-12:00"
+          },
+          {
+            "Day": "Wednesday",
+            "TimePeriod": "11:00-12:00"
+          },
+          {
+            "Day": "Friday",
+            "TimePeriod": "11:00-12:00"
+          }
+        ]
+      },
+      {
+        "Id": "2",
+        "Lecturer": "Mr. KC Cheong",
+        "Venue": "BG.03",
+        "Sessions": [
+          {
+            "Day": "Tuesday",
+            "TimePeriod": "11:00-12:00"
+          },
+          {
+            "Day": "Thursday",
+            "TimePeriod": "11:00-12:00"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "Code": "PHYS211",
+    "Name": "Physics for Science & Engineering I",
+    "Credits": 4,
+    "Classes": [
+      {
+        "Id": "1",
+        "Lecturer": "Mr. Alvin",
+        "Venue": "BG.08",
+        "Type": "Lecture",
+        "Sessions": [
+          {
+            "Day": "Monday",
+            "TimePeriod": "14:00-15:00"
+          },
+          {
+            "Day": "Wednesday",
+            "TimePeriod": "14:00-15:00"
+          },
+          {
+            "Day": "Friday",
+            "TimePeriod": "14:30-15:30"
+          }
+        ]
+      },
+      {
+        "Id": "2",
+        "Lecturer": "Mr. Alvin",
+        "Venue": "BG.11",
+        "Type": "Lecture",
+        "Sessions": [
+          {
+            "Day": "Tuesday",
+            "TimePeriod": "08:00-09:30"
+          },
+          {
+            "Day": "Thursday",
+            "TimePeriod": "08:00-09:30"
+          }
+        ]
+      },
+      {
+        "Id": "L1",
+        "Lecturer": "Dr. Loh",
+        "Venue": "C. LAB",
+        "Type": "Lab",
+        "Sessions": [
+          {
+            "Day": "Tuesday",
+            "TimePeriod": "10:00-12:00"
+          }
+        ]
+      },
+      {
+        "Id": "L2",
+        "Lecturer": "Dr. Loh",
+        "Venue": "C. LAB",
+        "Type": "Lab",
+        "Sessions": [
+          {
+            "Day": "Tuesday",
+            "TimePeriod": "14:00-16:00"
+          }
+        ]
+      },
+      {
+        "Id": "L3",
+        "Lecturer": "Dr. Loh",
+        "Venue": "C. LAB",
+        "Type": "Lab",
+        "Sessions": [
+          {
+            "Day": "Tuesday",
+            "TimePeriod": "16:00-18:00"
+          }
+        ]
+      }
+    ]
+  }
+]
