@@ -1,7 +1,7 @@
 [
   {
     "Code": "PHYS211",
-    "Name": "Physics for Science & Engineering I",
+    "Name": "Physics for Science & Engineering I (with lab)",
     "Credits": 4,
     "Classes": [
       {
@@ -73,6 +73,45 @@
           {
             "Day": "Tuesday",
             "TimePeriod": "16:00-18:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Code": "BIOL160",
+    "Name": "Biological Science (with lab)",
+    "Credits": 4,
+    "Classes": [
+      {
+        "Id": "1",
+        "Lecturer": "Ms. Bessie",
+        "Venue": "BG.18",
+        "Type": "Lecture",
+        "Sessions": [
+          {
+            "Day": "Monday",
+            "TimePeriod": "09:00-10:00"
+          },
+          {
+            "Day": "Wednesday",
+            "TimePeriod": "09:00-10:00"
+          },
+          {
+            "Day": "Friday",
+            "TimePeriod": "09:00-10:00"
+          }
+        ]
+      },
+      {
+        "Id": "L1",
+        "Lecturer": "Ms. Bessie",
+        "Venue": "C.LAB",
+        "Type": "Lab",
+        "Sessions": [
+          {
+            "Day": "Wednesday",
+            "TimePeriod": "12:00-14:00"
           }
         ]
       }
