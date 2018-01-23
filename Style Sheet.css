@@ -3,11 +3,17 @@ body {
 	background-color: #404144;
 	color:white;
 	text-align: center;
-	font-family: roboto;
+	font-family: verdana;
+	margin-left: 20px;
+	margin-right: 20px;
 }
 
 h1 {
-	font-style: bold;
+	font-weight: bold;
+}
+
+button {
+	text-align = left;
 }
 
 p {
