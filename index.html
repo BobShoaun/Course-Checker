@@ -1,39 +1,29 @@
 <!DOCTYPE html>
 <html lang="en-us">
-
-  
   <head>
-  
+	
 	<title>ADP Timetabler</title>
-    
-	<link rel= "stylesheet" href="Style Sheet.css">
+	
+	<link rel="stylesheet" href="Style Sheet.css">
 	
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
-	
-    <link rel="shortcut icon" href="TemplateData/favicon.ico">
-    <link rel="stylesheet" href="TemplateData/style.css">
-    <script src="TemplateData/UnityProgress.js"></script>  
     <script src="Build/UnityLoader.js"></script>
 	
     <script>
-      var gameInstance = UnityLoader.instantiate("gameContainer", "Build/Alpha 1.4.json", {onProgress: UnityProgress});
+      var gameInstance = UnityLoader.instantiate("gameContainer", "Build/Alpha 1.5.json");
     </script>
 	
   </head>
   
   <body>
-	
 	<h1>ADP Timetabler</h1>
 	<p> Welcome to the ADP Timetabler created by Ng Bob Shoaun. This website lets you choose
-	courses for your upcoming semester with ease </p>
-
-    <div class="webgl-content">
-      <div id="gameContainer" style="width: 960px; height: 600px"></div>
-    </div>
+	courses for your upcoming semester with ease. </p>
+	
+    <div id="gameContainer" style="width: 720px; height: 1000px; margin: auto"></div>
 	
 	<button name"fullscreen" type="submit" onclick="gameInstance.SetFullscreen(1)"> Fullscreen </button>
-	
   </body>
 </html>
