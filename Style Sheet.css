@@ -1,0 +1,16 @@
+
+body {
+	background-color: #404144;
+	color:white;
+	text-align: center;
+	font-family: roboto;
+}
+
+h1 {
+	font-style: bold;
+}
+
+p {
+	text-align: center;
+	text-size: 20;
+}
