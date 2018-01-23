@@ -5,14 +5,31 @@ body {
 	text-align: center;
 	font-family: verdana;
 
-	margin: auto;
+	margin: 0 auto;
 	
 }
 
-#gameContainer {
-	background-color: green;
 
+
+#gameContainer {
+	width: 720px;
+	height: 1000px;
+	
 }
+.embed {
+	width: 720px;
+	height: 1000px;
+	
+	margin: 0 auto;
+}
+
+#gameContainer {
+	width: 720px;
+	height: 1000px;
+	background-color: pink;
+}
+
+
 
 h1 {
 	font-weight: bold;
