@@ -4,8 +4,14 @@ body {
 	color:white;
 	text-align: center;
 	font-family: verdana;
-	margin-left: 20px;
-	margin-right: 20px;
+
+	margin: auto;
+	
+}
+
+#gameContainer {
+	background-color: green;
+
 }
 
 h1 {

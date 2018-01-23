@@ -1,29 +1,31 @@
-<!DOCTYPE html>
-<html lang="en-us">
-  <head>
+﻿<!DOCTYPE html>
+<html>
 	
-	<title>ADP Timetabler</title>
+	<head>
+		<title>ADP Timetabler</title>
+		<link rel="stylesheet" href="Style Sheet.css">
+	</head>
 	
-	<link rel="stylesheet" href="Style Sheet.css">
+	<body>
 	
-    <meta charset="utf-8">
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<h1>ADP Timetabler</h1>
+		<br>
+		<p> Welcome to the ADP Timetabler created by Ng Bob Shoaun. This website lets you choose
+		courses for your upcoming semester with ease. </p>
+	
+		<iframe src="game.html" width="720" height="1000" border-width: 0>
+		
+		</iframe>
+		<br>
+		<button name"fullscreen" type="submit" onclick="gameInstance.SetFullscreen(1)"> Fullscreen </button>
+	
+		
+		<h2> How To Save? </h2>
+		<p> Due to security limitations, there isnt a save function currently. 
+		So to save your timetable you'll just have to take a screenshot. Enable full screen for better quality. </p>
+	
+	
+	</body>
+	
 
-    <script src="Build/UnityLoader.js"></script>
-	
-    <script>
-      var gameInstance = UnityLoader.instantiate("gameContainer", "Build/Alpha 1.5.json");
-    </script>
-	
-  </head>
-  
-  <body>
-	<h1>ADP Timetabler</h1>
-	<p> Welcome to the ADP Timetabler created by Ng Bob Shoaun. This website lets you choose
-	courses for your upcoming semester with ease. </p>
-	
-    <div id="gameContainer" style="width: 720px; height: 1000px; margin: auto"></div>
-	
-	<button name"fullscreen" type="submit" onclick="gameInstance.SetFullscreen(1)"> Fullscreen </button>
-  </body>
 </html>
