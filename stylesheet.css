@@ -4,24 +4,14 @@ body {
 	color:white;
 	text-align: center;
 	font-family: verdana;
-
-	margin: 0 auto;
 	
+	margin-left: 20%;
+	margin-right: 20%;
+	margin-top: 100px;
+	margin-bottom: 100px;
 }
 
 
-
-#gameContainer {
-	width: 720px;
-	height: 1000px;
-	
-}
-.embed {
-	width: 720px;
-	height: 1000px;
-	
-	margin: 0 auto;
-}
 
 #gameContainer {
 	width: 720px;
@@ -29,17 +19,27 @@ body {
 	background-color: pink;
 }
 
-
+.embed {
+	width: 720px;
+	height: 1000px;
+	margin: 0 auto;
+}
 
 h1 {
 	font-weight: bold;
+	font-size: 40px;
+}
+
+h2 {
+	font-size: 30px;
 }
 
 button {
-	text-align = left;
+	background-color: #969696FF;
+	font-color: white;
+	font-size: 30px;
 }
 
 p {
-	text-align: center;
-	text-size: 20;
+	font-size: 20px;
 }
