@@ -14,12 +14,12 @@ body {
 
 
 #gameContainer {
-	width: 720px;
+	width: 500px;
 	height: 1000px;
 }
 
 .embed {
-	width: 720px;
+	width: 500px;
 	height: 1000px;
 	margin: 0 auto;
 }
