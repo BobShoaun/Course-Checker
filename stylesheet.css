@@ -41,7 +41,7 @@ p {
 }
 
 .section2 {
-	padding: 3% 20% 3% 20%;
+	padding: 2% 20% 3% 20%;
 }
 
 .section2 p, h1, h3 {
@@ -83,14 +83,7 @@ p {
 	background: #393F57;
 }
 
-.embed {
-	/*width: 1000px;
-	height: 1200px;
-	margin: 0 auto;*/
-}
-
 #gameContainer {
-	/*width: 1000px;
-	height: 1200px;*/
+	padding: 2em 0 2em 0 !important;
 	margin: 0 auto !important;
 }
