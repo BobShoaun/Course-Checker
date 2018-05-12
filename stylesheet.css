@@ -84,12 +84,13 @@ p {
 }
 
 .embed {
-	width: 1000px;
+	/*width: 1000px;
 	height: 1200px;
-	margin: 0 auto;
+	margin: 0 auto;*/
 }
 
 #gameContainer {
 	/*width: 1000px;
 	height: 1200px;*/
+	margin: 0 auto !important;
 }
