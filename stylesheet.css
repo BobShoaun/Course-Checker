@@ -1,14 +1,29 @@
+footer {
+	background-color: #676767;
+	
+	margin-left: 0%;
+	padding: 0;
+	bottom: 0;
+	height: 50%;
+}
 
 body {
 	background-color: #2D2D2DFF;
+	
 	color:white;
 	text-align: center;
 	font-family: 'Roboto', sans-serif;
+	
+
 	
 	margin-left: 20%;
 	margin-right: 20%;
 	margin-top: 100px;
 	margin-bottom: 100px;
+	
+	padding: 0;
+	margin: 0;
+	border: 0;
 }
 
 
