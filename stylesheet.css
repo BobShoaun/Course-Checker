@@ -5,9 +5,12 @@ html {
 body {
 	background-color: #2D2D2DFF;
 	color:white;
-	text-align: center;
 	font-family: 'Roboto', sans-serif;
 	margin: 0;
+}
+
+body > div:nth-child(odd) {
+	background: #454545;
 }
 
 footer {
@@ -18,7 +21,7 @@ footer {
 
 h1 {
 	/*font-weight: bold;*/
-	font-size: 35px;
+	/*font-size: 35px;*/
 }
 
 h2 {
@@ -26,19 +29,58 @@ h2 {
 }
 
 p {
-	text-align: justify;
 	font-size: 20px;
 }
 
 .section {
-	background-color: #454545;
 	padding: 1% 20% 1% 20%;
 }
 
-.grid {
+.section p {
+	/*text-align: justify;*/
+}
+
+.section2 {
+	padding: 3% 20% 3% 20%;
+}
+
+.section2 p, h1, h3 {
+	text-align: left;
+}
+
+.grid1 {
 	display: grid;
 	grid-template-columns: 1fr 1fr;
 	grid-gap: 5%;
+}
+
+.grid2 {
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+}
+
+.grid2 p, h3 {
+	/*text-align: left;*/
+}
+
+.grid2 > div {
+	padding: 10%;
+}
+
+.grid2 > div:nth-child(1) {
+	background: #86A370;
+}
+
+.grid2 > div:nth-child(2) {
+	background: #408977;
+}
+
+.grid2 > div:nth-child(3) {
+	background: #3F6573;
+}
+
+.grid2 > div:nth-child(4) {
+	background: #393F57;
 }
 
 .embed {
