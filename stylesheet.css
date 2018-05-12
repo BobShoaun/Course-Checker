@@ -15,7 +15,7 @@ body > div:nth-child(odd) {
 
 footer {
 	background-color: #454545;
-	padding: 5%;
+	padding: 2em;
 	text-align: center;
 }
 
