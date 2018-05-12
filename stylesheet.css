@@ -42,3 +42,12 @@ button {
 p {
 	font-size: 20px;
 }
+
+.gallery-text {
+    float: left;
+    width: 48%;
+    margin: 1%;
+}
+.gallery-text p {
+    word-break: break-all;
+}
