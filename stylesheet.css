@@ -84,6 +84,7 @@ p {
 }
 
 #gameContainer {
-	padding: 2em 0 2em 0 !important;
-	margin: 0 auto !important;
+	width: 1000px;
+	height: 1200px;
+	margin: 2em auto 2em auto !important;
 }
